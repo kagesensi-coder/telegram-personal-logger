@@ -33,8 +33,8 @@
 
 #### 1. Клонирование репозитория и установка зависимостей
 ```bash
-# Клонируй репозиторий (замени URL на свой)
-git clone https://github.com/ТВОЙ_ЮЗЕРНЕЙМ/telegram-personal-logger.git
+# Клонируй репозиторий 
+git clone https://github.com/kagesensi-coder/telegram-personal-logger.git
 cd telegram-personal-logger
 
 # Создай и активируй виртуальное окружение (опционально, но рекомендуется)
