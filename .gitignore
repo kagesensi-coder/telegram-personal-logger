@@ -1,0 +1,5 @@
+.env
+*.sqlite3
+media_cache/
+__pycache__/
+personal_logger.session
